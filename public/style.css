@@ -1,7 +1,30 @@
 body{
   padding-top:80px;
   word-wrap:break-word;
+  background: url('https://media.giphy.com/media/Wxc9iA6vBWMP9jbMjn/giphy.gif') no-repeat center;
+  background-size: cover;
+  font-family: cursive;
+  height: 100vh;
 }
+
+h1{
+  color: rgb(47, 135, 207);
+} 
+
 img{
   height: 200px;
 }
+
+.hidden {
+  display:none;
+}
+
+.jumbotron {
+  height: 600px;
+  width: 100%;
+  background-color: transparent;
+
+}
+
+
+
